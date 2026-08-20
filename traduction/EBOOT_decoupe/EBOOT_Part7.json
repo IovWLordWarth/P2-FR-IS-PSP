@@ -5,7 +5,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Animal[SP]Trail",
-        "texte_fr": ""
+        "texte_fr": "Piste"
     },
     {
         "id": 6001,
@@ -69,7 +69,7 @@
         "data_size": 28,
         "slot_size": 28,
         "texte_orig": "Trish&s[SP]Spring",
-        "texte_fr": ""
+        "texte_fr": "Bains de Trish"
     },
     {
         "id": 6009,
@@ -125,7 +125,7 @@
         "data_size": 8,
         "slot_size": 8,
         "texte_orig": "Cave",
-        "texte_fr": ""
+        "texte_fr": "Cave"
     },
     {
         "id": 6016,
@@ -133,7 +133,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Uphill",
-        "texte_fr": ""
+        "texte_fr": "Montée"
     },
     {
         "id": 6017,
@@ -149,7 +149,7 @@
         "data_size": 16,
         "slot_size": 16,
         "texte_orig": "Downhill",
-        "texte_fr": ""
+        "texte_fr": "Déscente"
     },
     {
         "id": 6019,
@@ -157,7 +157,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Uphill",
-        "texte_fr": ""
+        "texte_fr": "Montée"
     },
     {
         "id": 6020,
@@ -165,7 +165,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "Secret[SP]Room",
-        "texte_fr": ""
+        "texte_fr": "Salle Secrète"
     },
     {
         "id": 6021,
@@ -173,7 +173,7 @@
         "data_size": 8,
         "slot_size": 8,
         "texte_orig": "Cave",
-        "texte_fr": ""
+        "texte_fr": "Cave"
     },
     {
         "id": 6022,
@@ -181,7 +181,7 @@
         "data_size": 16,
         "slot_size": 16,
         "texte_orig": "Downhill",
-        "texte_fr": ""
+        "texte_fr": "Descente"
     },
     {
         "id": 6023,
@@ -189,7 +189,7 @@
         "data_size": 28,
         "slot_size": 28,
         "texte_orig": "Trish&s[SP]Spring",
-        "texte_fr": ""
+        "texte_fr": "Bains de Trish"
     },
     {
         "id": 6024,
@@ -197,7 +197,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Uphill",
-        "texte_fr": ""
+        "texte_fr": "Montée"
     },
     {
         "id": 6025,
@@ -205,7 +205,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "Secret[SP]Room",
-        "texte_fr": ""
+        "texte_fr": "Salle Secrète"
     },
     {
         "id": 6026,
@@ -221,7 +221,7 @@
         "data_size": 26,
         "slot_size": 26,
         "texte_orig": "Cave[SP]Entrance",
-        "texte_fr": ""
+        "texte_fr": "Entrée Cave"
     },
     {
         "id": 6028,
@@ -229,7 +229,7 @@
         "data_size": 16,
         "slot_size": 16,
         "texte_orig": "Downhill",
-        "texte_fr": ""
+        "texte_fr": "Descente"
     },
     {
         "id": 6029,
@@ -237,7 +237,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "Secret[SP]Room",
-        "texte_fr": ""
+        "texte_fr": "Salle Secrète"
     },
     {
         "id": 6030,
@@ -261,7 +261,7 @@
         "data_size": 32,
         "slot_size": 32,
         "texte_orig": "Teachers&[SP]Office",
-        "texte_fr": ""
+        "texte_fr": "Bureau Profs."
     },
     {
         "id": 6033,
@@ -269,7 +269,7 @@
         "data_size": 16,
         "slot_size": 16,
         "texte_orig": "Elevator",
-        "texte_fr": ""
+        "texte_fr": "Ascensr"
     },
     {
         "id": 6034,
@@ -285,7 +285,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Stairs",
-        "texte_fr": ""
+        "texte_fr": "Escal."
     },
     {
         "id": 6036,
@@ -293,7 +293,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Stairs",
-        "texte_fr": ""
+        "texte_fr": "Escal."
     },
     {
         "id": 6037,
@@ -301,7 +301,7 @@
         "data_size": 8,
         "slot_size": 8,
         "texte_orig": "Roof",
-        "texte_fr": ""
+        "texte_fr": "Toit"
     },
     {
         "id": 6038,
@@ -309,7 +309,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Stairs",
-        "texte_fr": ""
+        "texte_fr": "Escal."
     },
     {
         "id": 6039,
@@ -317,7 +317,7 @@
         "data_size": 16,
         "slot_size": 16,
         "texte_orig": "Elevator",
-        "texte_fr": ""
+        "texte_fr": "Ascensr"
     },
     {
         "id": 6040,
@@ -325,7 +325,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Stairs",
-        "texte_fr": ""
+        "texte_fr": "Escal."
     },
     {
         "id": 6041,
@@ -333,7 +333,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Exhibit[SP]Room",
-        "texte_fr": ""
+        "texte_fr": "Salle d'Expo."
     },
     {
         "id": 6042,
@@ -341,7 +341,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Exhibit[SP]Room",
-        "texte_fr": ""
+        "texte_fr": "Salle d'Expo."
     },
     {
         "id": 6043,
@@ -349,7 +349,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Exhibit[SP]Room",
-        "texte_fr": ""
+        "texte_fr": "Salle d'Expo."
     },
     {
         "id": 6044,
@@ -357,7 +357,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Exhibit[SP]Room",
-        "texte_fr": ""
+        "texte_fr": "Salle d'Expo."
     },
     {
         "id": 6045,
@@ -365,7 +365,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Exhibit[SP]Room",
-        "texte_fr": ""
+        "texte_fr": "Salle d'Expo."
     },
     {
         "id": 6046,
@@ -373,7 +373,7 @@
         "data_size": 28,
         "slot_size": 28,
         "texte_orig": "Trish&s[SP]Spring",
-        "texte_fr": ""
+        "texte_fr": "Bains de Trish"
     },
     {
         "id": 6047,
@@ -381,7 +381,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Stairs",
-        "texte_fr": ""
+        "texte_fr": "Escal."
     },
     {
         "id": 6048,
@@ -389,7 +389,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Exhibit[SP]Room",
-        "texte_fr": ""
+        "texte_fr": "Salle d'Expo."
     },
     {
         "id": 6049,
@@ -397,7 +397,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Exhibit[SP]Room",
-        "texte_fr": ""
+        "texte_fr": "Salle d'Expo."
     },
     {
         "id": 6050,
@@ -405,7 +405,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Exhibit[SP]Room",
-        "texte_fr": ""
+        "texte_fr": "Salle d'Expo."
     },
     {
         "id": 6051,
@@ -413,7 +413,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Exhibit[SP]Room",
-        "texte_fr": ""
+        "texte_fr": "Salle d'Expo."
     },
     {
         "id": 6052,
@@ -421,7 +421,7 @@
         "data_size": 16,
         "slot_size": 16,
         "texte_orig": "Elevator",
-        "texte_fr": ""
+        "texte_fr": "Ascensr"
     },
     {
         "id": 6053,
@@ -429,7 +429,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Stairs",
-        "texte_fr": ""
+        "texte_fr": "Escal."
     },
     {
         "id": 6054,
@@ -437,7 +437,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Exhibit[SP]Room",
-        "texte_fr": ""
+        "texte_fr": "Salle d'Expo."
     },
     {
         "id": 6055,
@@ -453,7 +453,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Stairs",
-        "texte_fr": ""
+        "texte_fr": "Escal."
     },
     {
         "id": 6057,
@@ -461,7 +461,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Exhibit[SP]Room",
-        "texte_fr": ""
+        "texte_fr": "Salle d'Expo."
     },
     {
         "id": 6058,
@@ -469,7 +469,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Exhibit[SP]Room",
-        "texte_fr": ""
+        "texte_fr": "Salle d'Expo."
     },
     {
         "id": 6059,
@@ -477,7 +477,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Exhibit[SP]Room",
-        "texte_fr": ""
+        "texte_fr": "Salle d'Expo."
     },
     {
         "id": 6060,
@@ -485,7 +485,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Exhibit[SP]Room",
-        "texte_fr": ""
+        "texte_fr": "Salle d'Expo."
     },
     {
         "id": 6061,
@@ -493,7 +493,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Stairs",
-        "texte_fr": ""
+        "texte_fr": "Escal."
     },
     {
         "id": 6062,
@@ -501,7 +501,7 @@
         "data_size": 16,
         "slot_size": 16,
         "texte_orig": "Elevator",
-        "texte_fr": ""
+        "texte_fr": "Ascensr"
     },
     {
         "id": 6063,
@@ -509,7 +509,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Stairs",
-        "texte_fr": ""
+        "texte_fr": "Escal."
     },
     {
         "id": 6064,
@@ -541,7 +541,7 @@
         "data_size": 28,
         "slot_size": 28,
         "texte_orig": "Trish&s[SP]Spring",
-        "texte_fr": ""
+        "texte_fr": "Bains de Trish"
     },
     {
         "id": 6068,
@@ -565,7 +565,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Stairs",
-        "texte_fr": ""
+        "texte_fr": "Escal."
     },
     {
         "id": 6071,
@@ -573,7 +573,7 @@
         "data_size": 26,
         "slot_size": 26,
         "texte_orig": "Training[SP]Room",
-        "texte_fr": ""
+        "texte_fr": "Salle d'Expo."
     },
     {
         "id": 6072,
@@ -581,7 +581,7 @@
         "data_size": 26,
         "slot_size": 26,
         "texte_orig": "Supply[SP]Closet",
-        "texte_fr": ""
+        "texte_fr": "Plac. Matos"
     },
     {
         "id": 6073,
@@ -589,7 +589,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Trainer[SP]Room",
-        "texte_fr": ""
+        "texte_fr": "Salle Coach"
     },
     {
         "id": 6074,
@@ -597,7 +597,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Stairs",
-        "texte_fr": ""
+        "texte_fr": "Escal."
     },
     {
         "id": 6075,
@@ -621,7 +621,7 @@
         "data_size": 26,
         "slot_size": 26,
         "texte_orig": "Supply[SP]Closet",
-        "texte_fr": ""
+        "texte_fr": "Plac. Matos"
     },
     {
         "id": 6078,
@@ -645,7 +645,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Office",
-        "texte_fr": ""
+        "texte_fr": "Bureau"
     },
     {
         "id": 6081,
@@ -669,7 +669,7 @@
         "data_size": 16,
         "slot_size": 16,
         "texte_orig": "Elevator",
-        "texte_fr": ""
+        "texte_fr": "Ascensr"
     },
     {
         "id": 6084,
@@ -677,7 +677,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Stairs",
-        "texte_fr": ""
+        "texte_fr": "Escal."
     },
     {
         "id": 6085,
@@ -693,7 +693,7 @@
         "data_size": 28,
         "slot_size": 28,
         "texte_orig": "Trish&s[SP]Spring",
-        "texte_fr": ""
+        "texte_fr": "Bains de Trish"
     },
     {
         "id": 6087,
@@ -701,7 +701,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Office",
-        "texte_fr": ""
+        "texte_fr": "Bureau"
     },
     {
         "id": 6088,
@@ -725,7 +725,7 @@
         "data_size": 16,
         "slot_size": 16,
         "texte_orig": "Elevator",
-        "texte_fr": ""
+        "texte_fr": "Ascensr"
     },
     {
         "id": 6091,
@@ -733,7 +733,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Stairs",
-        "texte_fr": ""
+        "texte_fr": "Escal."
     },
     {
         "id": 6092,
@@ -749,7 +749,7 @@
         "data_size": 18,
         "slot_size": 18,
         "texte_orig": "Fast[SP]Food",
-        "texte_fr": ""
+        "texte_fr": "Fast Food"
     },
     {
         "id": 6094,
@@ -757,7 +757,7 @@
         "data_size": 20,
         "slot_size": 20,
         "texte_orig": "Print[SP]Shop",
-        "texte_fr": ""
+        "texte_fr": "Imprimerie"
     },
     {
         "id": 6095,
@@ -781,7 +781,7 @@
         "data_size": 18,
         "slot_size": 18,
         "texte_orig": "Bookstore",
-        "texte_fr": ""
+        "texte_fr": "Librairie"
     },
     {
         "id": 6098,
@@ -797,7 +797,7 @@
         "data_size": 18,
         "slot_size": 18,
         "texte_orig": "Drugstore",
-        "texte_fr": ""
+        "texte_fr": "Droguerie"
     },
     {
         "id": 6100,
@@ -813,7 +813,7 @@
         "data_size": 16,
         "slot_size": 16,
         "texte_orig": "Elevator",
-        "texte_fr": ""
+        "texte_fr": "Ascensr"
     },
     {
         "id": 6102,
@@ -821,7 +821,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Stairs",
-        "texte_fr": ""
+        "texte_fr": "Escal."
     },
     {
         "id": 6103,
@@ -861,7 +861,7 @@
         "data_size": 16,
         "slot_size": 16,
         "texte_orig": "Elevator",
-        "texte_fr": ""
+        "texte_fr": "Ascensr"
     },
     {
         "id": 6108,
@@ -869,7 +869,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Stairs",
-        "texte_fr": ""
+        "texte_fr": "Escalier"
     },
     {
         "id": 6109,
@@ -877,7 +877,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "Storage",
-        "texte_fr": ""
+        "texte_fr": "Réserve"
     },
     {
         "id": 6110,
@@ -885,7 +885,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "Storage",
-        "texte_fr": ""
+        "texte_fr": "Réserve"
     },
     {
         "id": 6111,
@@ -893,7 +893,7 @@
         "data_size": 16,
         "slot_size": 16,
         "texte_orig": "Elevator",
-        "texte_fr": ""
+        "texte_fr": "Ascensr"
     },
     {
         "id": 6112,
@@ -901,7 +901,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Stairs",
-        "texte_fr": ""
+        "texte_fr": "Escal."
     },
     {
         "id": 6113,
@@ -917,7 +917,7 @@
         "data_size": 26,
         "slot_size": 26,
         "texte_orig": "Dressing[SP]Room",
-        "texte_fr": ""
+        "texte_fr": "Cabine Essayge"
     },
     {
         "id": 6115,
@@ -949,7 +949,7 @@
         "data_size": 28,
         "slot_size": 28,
         "texte_orig": "Trish&s[SP]Spring",
-        "texte_fr": ""
+        "texte_fr": "Bains de Trish"
     },
     {
         "id": 6119,
@@ -989,7 +989,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Closet",
-        "texte_fr": ""
+        "texte_fr": "Plac."
     },
     {
         "id": 6124,
@@ -1005,7 +1005,7 @@
         "data_size": 16,
         "slot_size": 16,
         "texte_orig": "Elevator",
-        "texte_fr": ""
+        "texte_fr": "Ascensr"
     },
     {
         "id": 6126,
@@ -1013,7 +1013,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Stairs",
-        "texte_fr": ""
+        "texte_fr": "Escal."
     },
     {
         "id": 6127,
@@ -1029,7 +1029,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Closet",
-        "texte_fr": ""
+        "texte_fr": "Palc."
     },
     {
         "id": 6129,
@@ -1045,7 +1045,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Stairs",
-        "texte_fr": ""
+        "texte_fr": "Escal."
     },
     {
         "id": 6131,
@@ -1053,7 +1053,7 @@
         "data_size": 28,
         "slot_size": 28,
         "texte_orig": "Trish&s[SP]Spring",
-        "texte_fr": ""
+        "texte_fr": "Bains de Trish"
     },
     {
         "id": 6132,
@@ -1061,7 +1061,7 @@
         "data_size": 16,
         "slot_size": 16,
         "texte_orig": "Elevator",
-        "texte_fr": ""
+        "texte_fr": "Ascensr"
     },
     {
         "id": 6133,
@@ -1069,7 +1069,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Stairs",
-        "texte_fr": ""
+        "texte_fr": "Escal."
     },
     {
         "id": 6134,
@@ -1077,7 +1077,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Closet",
-        "texte_fr": ""
+        "texte_fr": "Placrd"
     },
     {
         "id": 6135,
@@ -1101,7 +1101,7 @@
         "data_size": 16,
         "slot_size": 16,
         "texte_orig": "Elevator",
-        "texte_fr": ""
+        "texte_fr": "Ascensr"
     },
     {
         "id": 6138,
@@ -1109,7 +1109,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Stairs",
-        "texte_fr": ""
+        "texte_fr": "Escal."
     },
     {
         "id": 6139,
@@ -1117,7 +1117,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Closet",
-        "texte_fr": ""
+        "texte_fr": "Placrd"
     },
     {
         "id": 6140,
@@ -1125,7 +1125,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Stairs",
-        "texte_fr": ""
+        "texte_fr": "Escal."
     },
     {
         "id": 6141,
@@ -1141,7 +1141,7 @@
         "data_size": 16,
         "slot_size": 16,
         "texte_orig": "Elevator",
-        "texte_fr": ""
+        "texte_fr": "Ascensr"
     },
     {
         "id": 6143,
@@ -1149,7 +1149,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Stairs",
-        "texte_fr": ""
+        "texte_fr": "Escal."
     },
     {
         "id": 6144,
@@ -1157,7 +1157,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Closet",
-        "texte_fr": ""
+        "texte_fr": "Placrd"
     },
     {
         "id": 6145,
@@ -1173,7 +1173,7 @@
         "data_size": 16,
         "slot_size": 16,
         "texte_orig": "Elevator",
-        "texte_fr": ""
+        "texte_fr": "Ascensr"
     },
     {
         "id": 6147,
@@ -1181,7 +1181,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Stairs",
-        "texte_fr": ""
+        "texte_fr": "Escal."
     },
     {
         "id": 6148,
@@ -1189,7 +1189,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Closet",
-        "texte_fr": ""
+        "texte_fr": "Placrd"
     },
     {
         "id": 6149,
@@ -1213,7 +1213,7 @@
         "data_size": 16,
         "slot_size": 16,
         "texte_orig": "Elevator",
-        "texte_fr": ""
+        "texte_fr": "Ascensr"
     },
     {
         "id": 6152,
@@ -1221,7 +1221,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Stairs",
-        "texte_fr": ""
+        "texte_fr": "Escal."
     },
     {
         "id": 6153,
