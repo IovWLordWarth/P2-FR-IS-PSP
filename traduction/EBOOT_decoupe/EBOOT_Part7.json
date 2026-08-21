@@ -5,7 +5,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Animal[SP]Trail",
-        "texte_fr": ""
+        "texte_fr": "Piste"
     },
     {
         "id": 6001,
@@ -21,7 +21,7 @@
         "data_size": 18,
         "slot_size": 18,
         "texte_orig": "Goketsuji",
-        "texte_fr": ""
+        "texte_fr": "Goketsuji"
     },
     {
         "id": 6003,
@@ -69,7 +69,7 @@
         "data_size": 28,
         "slot_size": 28,
         "texte_orig": "Trish&s[SP]Spring",
-        "texte_fr": ""
+        "texte_fr": "Bains de Trish"
     },
     {
         "id": 6009,
@@ -125,7 +125,7 @@
         "data_size": 8,
         "slot_size": 8,
         "texte_orig": "Cave",
-        "texte_fr": ""
+        "texte_fr": "Cave"
     },
     {
         "id": 6016,
@@ -133,7 +133,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Uphill",
-        "texte_fr": ""
+        "texte_fr": "Montée"
     },
     {
         "id": 6017,
@@ -149,7 +149,7 @@
         "data_size": 16,
         "slot_size": 16,
         "texte_orig": "Downhill",
-        "texte_fr": ""
+        "texte_fr": "Descente"
     },
     {
         "id": 6019,
@@ -157,7 +157,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Uphill",
-        "texte_fr": ""
+        "texte_fr": "Montée"
     },
     {
         "id": 6020,
@@ -165,7 +165,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "Secret[SP]Room",
-        "texte_fr": ""
+        "texte_fr": "Salle Secrète"
     },
     {
         "id": 6021,
@@ -173,7 +173,7 @@
         "data_size": 8,
         "slot_size": 8,
         "texte_orig": "Cave",
-        "texte_fr": ""
+        "texte_fr": "Cave"
     },
     {
         "id": 6022,
@@ -181,7 +181,7 @@
         "data_size": 16,
         "slot_size": 16,
         "texte_orig": "Downhill",
-        "texte_fr": ""
+        "texte_fr": "Descente"
     },
     {
         "id": 6023,
@@ -189,7 +189,7 @@
         "data_size": 28,
         "slot_size": 28,
         "texte_orig": "Trish&s[SP]Spring",
-        "texte_fr": ""
+        "texte_fr": "Bains de Trish"
     },
     {
         "id": 6024,
@@ -197,7 +197,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Uphill",
-        "texte_fr": ""
+        "texte_fr": "Montée"
     },
     {
         "id": 6025,
@@ -205,7 +205,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "Secret[SP]Room",
-        "texte_fr": ""
+        "texte_fr": "Salle Secrète"
     },
     {
         "id": 6026,
@@ -221,7 +221,7 @@
         "data_size": 26,
         "slot_size": 26,
         "texte_orig": "Cave[SP]Entrance",
-        "texte_fr": ""
+        "texte_fr": "Entrée Cave"
     },
     {
         "id": 6028,
@@ -229,7 +229,7 @@
         "data_size": 16,
         "slot_size": 16,
         "texte_orig": "Downhill",
-        "texte_fr": ""
+        "texte_fr": "Descente"
     },
     {
         "id": 6029,
@@ -237,7 +237,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "Secret[SP]Room",
-        "texte_fr": ""
+        "texte_fr": "Salle Secrète"
     },
     {
         "id": 6030,
@@ -269,7 +269,7 @@
         "data_size": 16,
         "slot_size": 16,
         "texte_orig": "Elevator",
-        "texte_fr": ""
+        "texte_fr": "Ascensr"
     },
     {
         "id": 6034,
@@ -285,7 +285,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Stairs",
-        "texte_fr": ""
+        "texte_fr": "Escal."
     },
     {
         "id": 6036,
@@ -293,7 +293,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Stairs",
-        "texte_fr": ""
+        "texte_fr": "Escal."
     },
     {
         "id": 6037,
@@ -301,7 +301,7 @@
         "data_size": 8,
         "slot_size": 8,
         "texte_orig": "Roof",
-        "texte_fr": ""
+        "texte_fr": "Toit"
     },
     {
         "id": 6038,
@@ -309,7 +309,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Stairs",
-        "texte_fr": ""
+        "texte_fr": "Escal."
     },
     {
         "id": 6039,
@@ -317,7 +317,7 @@
         "data_size": 16,
         "slot_size": 16,
         "texte_orig": "Elevator",
-        "texte_fr": ""
+        "texte_fr": "Ascensr"
     },
     {
         "id": 6040,
@@ -325,7 +325,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Stairs",
-        "texte_fr": ""
+        "texte_fr": "Escal."
     },
     {
         "id": 6041,
@@ -333,7 +333,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Exhibit[SP]Room",
-        "texte_fr": ""
+        "texte_fr": "Salle d'Expo."
     },
     {
         "id": 6042,
@@ -341,7 +341,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Exhibit[SP]Room",
-        "texte_fr": ""
+        "texte_fr": "Salle d'Expo."
     },
     {
         "id": 6043,
@@ -349,7 +349,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Exhibit[SP]Room",
-        "texte_fr": ""
+        "texte_fr": "Salle d'Expo."
     },
     {
         "id": 6044,
@@ -357,7 +357,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Exhibit[SP]Room",
-        "texte_fr": ""
+        "texte_fr": "Salle d'Expo."
     },
     {
         "id": 6045,
@@ -365,7 +365,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Exhibit[SP]Room",
-        "texte_fr": ""
+        "texte_fr": "Salle d'Expo."
     },
     {
         "id": 6046,
@@ -373,7 +373,7 @@
         "data_size": 28,
         "slot_size": 28,
         "texte_orig": "Trish&s[SP]Spring",
-        "texte_fr": ""
+        "texte_fr": "Bains de Trish"
     },
     {
         "id": 6047,
@@ -381,7 +381,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Stairs",
-        "texte_fr": ""
+        "texte_fr": "Escal."
     },
     {
         "id": 6048,
@@ -389,7 +389,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Exhibit[SP]Room",
-        "texte_fr": ""
+        "texte_fr": "Salle d'Expo."
     },
     {
         "id": 6049,
@@ -397,7 +397,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Exhibit[SP]Room",
-        "texte_fr": ""
+        "texte_fr": "Salle d'Expo."
     },
     {
         "id": 6050,
@@ -405,7 +405,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Exhibit[SP]Room",
-        "texte_fr": ""
+        "texte_fr": "Salle d'Expo."
     },
     {
         "id": 6051,
@@ -413,7 +413,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Exhibit[SP]Room",
-        "texte_fr": ""
+        "texte_fr": "Salle d'Expo."
     },
     {
         "id": 6052,
@@ -437,7 +437,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Exhibit[SP]Room",
-        "texte_fr": ""
+        "texte_fr": "Salle d'Expo."
     },
     {
         "id": 6055,
